@@ -1,0 +1,31 @@
+name: Retake
+options:
+  bundleIdPrefix: com.retake
+  deploymentTarget:
+    iOS: "16.0"
+targets:
+  Retake:
+    type: application
+    platform: iOS
+    sources:
+      - Retake
+    info:
+      path: Retake/Info.plist
+      properties:
+        CFBundleDisplayName: Retake
+        UILaunchStoryboardName: ""
+        NSCameraUsageDescription: 需要使用相机进行圣地巡礼拍照
+        NSPhotoLibraryUsageDescription: 需要访问相册选择参考图片并保存拍摄的照片
+        NSPhotoLibraryAddUsageDescription: 需要将拍摄的照片保存到相册
+        UISupportedInterfaceOrientations:
+          - UIInterfaceOrientationPortrait
+          - UIInterfaceOrientationLandscapeLeft
+          - UIInterfaceOrientationLandscapeRight
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.re-take.app
+        MARKETING_VERSION: "1.0.0"
+        CURRENT_PROJECT_VERSION: "1"
+        SWIFT_VERSION: "5.9"
+        TARGETED_DEVICE_FAMILY: "1"
+        ENABLE_ON_DEMAND_RESOURCES: NO
