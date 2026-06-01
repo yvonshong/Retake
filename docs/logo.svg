@@ -1,0 +1,15 @@
+<svg width="160" height="160" viewBox="0 0 160 160" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Retake logo</title>
+  <desc id="desc">A camera frame aligned with a translucent reference scene.</desc>
+  <rect width="160" height="160" rx="36" fill="#101417"/>
+  <rect x="30" y="42" width="100" height="76" rx="18" fill="#F7F1E8"/>
+  <rect x="40" y="54" width="80" height="52" rx="10" fill="#1A2228"/>
+  <path d="M49 96L65 78L78 91L90 72L112 96H49Z" fill="#61D2A4"/>
+  <circle cx="103" cy="68" r="8" fill="#FFD166"/>
+  <rect x="52" y="28" width="56" height="20" rx="10" fill="#F7F1E8"/>
+  <circle cx="80" cy="80" r="27" fill="#EF476F" fill-opacity="0.28" stroke="#EF476F" stroke-width="4"/>
+  <path d="M22 57V42C22 30.9543 30.9543 22 42 22H57" stroke="#61D2A4" stroke-width="8" stroke-linecap="round"/>
+  <path d="M103 22H118C129.046 22 138 30.9543 138 42V57" stroke="#61D2A4" stroke-width="8" stroke-linecap="round"/>
+  <path d="M138 103V118C138 129.046 129.046 138 118 138H103" stroke="#61D2A4" stroke-width="8" stroke-linecap="round"/>
+  <path d="M57 138H42C30.9543 138 22 129.046 22 118V103" stroke="#61D2A4" stroke-width="8" stroke-linecap="round"/>
+</svg>
